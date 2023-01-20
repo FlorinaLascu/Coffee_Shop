@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e8d01e5b-4133-45e9-9a87-38f9f99249b1" name="User Data Source Mapping">
+      <data-sources db="fffb017d-6cee-47c6-a33b-1dbf3112f89c" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="7fad8851-848b-4aae-80c9-5da9be58f15c" name="coffee_shop@localhost Mapping">
+      <data-sources db="8fafcd73-44c0-4f99-abe1-f150a6f5e5fd" ddl="3a833caa-0117-43de-bae6-2091681e40be" />
+      <scope>
+        <node kind="database" qname="@">
+          <node kind="schema" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="d37688ca-e96c-4269-8114-6d06500b2b3b" name="coffee_shop@localhost (DDL) Mapping">
+      <data-sources db="8fafcd73-44c0-4f99-abe1-f150a6f5e5fd" ddl="9a5466ec-2818-410a-b0e9-92fdd2488288" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="592ac1ca-1f1a-4fd3-904f-c92d9520c28f" name="coffee_shop@localhost Mapping [2]">
+      <data-sources db="a30a5f8c-3088-4773-b242-b2d5fa9217fc" ddl="ee5c0652-6557-4bdb-8d47-82e28fb0f37a" />
+      <scope>
+        <node kind="database" qname="@">
+          <node kind="schema" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="ee5c0652-6557-4bdb-8d47-82e28fb0f37a" />
+          <option name="name" value="coffee_shop (DDL)" />
+          <option name="languageId" value="PostgreSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/DDL" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
